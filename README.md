@@ -4,7 +4,7 @@
 
 Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com desenvolvimento na parte do Front-end. Eu gosto de me desafiar, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getFriday)](https://wakatime.com/@getFriday) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=get-Friday&layout=compact)](https://github.com/get-Friday)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@getFriday)](https://wakatime.com/@getFriday) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=get-Friday&layout=compact)](https://github.com/get-Friday)
 
 - 🌱 Atualmente estou estudando:
    - ✅ React
