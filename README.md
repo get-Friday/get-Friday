@@ -21,3 +21,4 @@ Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com
 <code><img height="50" src="https://user-images.githubusercontent.com/67168311/145343146-bbe0facf-7c9f-4630-bc50-243e60ea20ed.png"></code>
 
 ---
+[![wakatime](https://wakatime.com/badge/user/76d904ba-8aea-4f36-aff8-a2c863032956/project/23bf2fe2-8e27-43a6-88de-24ba9c91a960.svg)](https://wakatime.com/badge/user/76d904ba-8aea-4f36-aff8-a2c863032956/project/23bf2fe2-8e27-43a6-88de-24ba9c91a960)
