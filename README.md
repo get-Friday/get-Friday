@@ -8,8 +8,8 @@ Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com
 
 - 🌱 Atualmente estou estudando:
    - ✅ React
+   - ✅ Styled Components
    - ☑️ Typescript
-   - ☑️ Tailwind CSS
 
 #### Habilidades em desenvolvimento que me orgulho de ter:
 
