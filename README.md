@@ -10,6 +10,9 @@ Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com
    - ✅ React
    - ✅ Styled Components
    - ☑️ Typescript
+   - ☑️ Angular
+   - ☑️ C#
+   - ☑️ .NET
 
 #### Habilidades em desenvolvimento que me orgulho de ter:
 
