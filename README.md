@@ -21,5 +21,3 @@ Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=get-Friday&layout=compact)](https://github.com/get-Friday)
-
-[![wakatime](https://wakatime.com/badge/user/76d904ba-8aea-4f36-aff8-a2c863032956.svg)](https://wakatime.com/@76d904ba-8aea-4f36-aff8-a2c863032956)
