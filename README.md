@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com desenvolvimento na parte do Front-end. Eu gosto de me desafiar, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
+Eu gosto bastante de produzir conteúdos vísuais, sou mais do front do que back mas faço os 2, o importante é botar o site online. Eu gosto de me desafiar, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
 
 - 🌱 Atualmente estou estudando:
-   - ✅ Angular
-   - ☑️ C#
+   - ✅ C#
    - ☑️ .NET
 
 #### Eu sei trabalhar com isso tudo aqui:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
