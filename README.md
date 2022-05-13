@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-> Me aventurando no mundo da programação!
-
 Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com desenvolvimento na parte do Front-end. Eu gosto de me desafiar, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
 
 - 🌱 Atualmente estou estudando:
@@ -20,6 +18,8 @@ Eu gosto bastante de produzir conteúdos vísuais e por isso busco trabalhar com
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<hr>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=get-Friday&layout=compact)](https://github.com/get-Friday)
+
+[![wakatime](https://wakatime.com/badge/user/76d904ba-8aea-4f36-aff8-a2c863032956.svg)](https://wakatime.com/@76d904ba-8aea-4f36-aff8-a2c863032956)
