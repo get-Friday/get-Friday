@@ -19,5 +19,3 @@ Eu gosto bastante de produzir conteúdos vísuais, sou mais do front do que back
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=get-Friday&layout=compact)](https://github.com/get-Friday)
