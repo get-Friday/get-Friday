@@ -3,7 +3,7 @@
 Eu gosto bastante de produzir conteúdos vísuais, sou mais do front do que back mas faço os 2, o importante é botar o site online. Eu gosto de me desafiar, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
 
 - 🌱 Atualmente estou estudando:
-   - ✅ .NET C#
+   - ⏳ .NET C#
 
 #### Eu sei trabalhar com isso tudo aqui:
 
