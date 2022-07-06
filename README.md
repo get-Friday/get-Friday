@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 Construíndo meu futuro como desenvolvedor web fullstack, estudando programação há 3 anos apaixonado pelo front-end e desafiado pelo back-end estou indo pra cima com tudo! No meu perfil você vai encontrar todos os meus projetos de estudo, minha jornada vem do React para o Angular, do Javascript para o Typescript e agora o C#. Quando comecei a estudar programação eu fui alfabetizado em Delphi em uma escola pública do interior, hoje eu faço bootcamps, cursos profissionalizantes como da JA Brasil e DEVinHouse, e estudo por conta própria com desafios de projetos.
 
-- 🌱 Plano de estudos:
-   - ✅ C#
-   - ☑️ SQL
-   - ☑️ .net core
+## 🌱 Plano de estudos:
+- ✅ C#
+- ☑️ SQL
+- ☑️ .net core
 
-#### Eu sei trabalhar com isso tudo aqui:
+### Eu sei trabalhar com isso tudo aqui:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
