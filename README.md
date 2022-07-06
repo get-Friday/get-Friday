@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu gosto bastante de produzir conteúdos vísuais, sou mais do front do que back mas faço os 2, o importante é botar o site online. Eu gosto de desafios, **eu sei centralizar uma div**, aprendo muito bem lendo e programo sem tomar café mas com muita música.
+Construíndo meu futuro como desenvolvedor web fullstack, estudando programação há 3 anos apaixonado pelo front-end e desafiado pelo back-end estou indo pra cima com tudo! No meu perfil você vai encontrar todos os meus projetos de estudo, minha jornada vem do React para o Angular, do Javascript para o Typescript e agora o C#. Quando comecei a estudar programação eu fui alfabetizado em Delphi em uma escola pública do interior, hoje eu faço bootcamps, cursos profissionalizantes como da JA Brasil e DEVinHouse, e estudo por conta própria com desafios de projetos.
 
 - 🌱 Plano de estudos:
    - ✅ C#
