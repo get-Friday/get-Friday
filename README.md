@@ -4,6 +4,10 @@ Construíndo meu futuro como desenvolvedor web fullstack, estudando programaçã
 
 ## 🌱 Plano de estudos:
 - ✅ ASP.NET
+- ☑️ Clean Code
+- ☑️ Cloud
+- ☑️ Docker
+- ☑️ TDD e testes unitários (NUnit)
 
 ### Eu sei trabalhar com isso tudo aqui:
 
