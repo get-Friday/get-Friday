@@ -7,7 +7,7 @@ Construíndo meu futuro como desenvolvedor web fullstack, estudando programaçã
 - ☑️ Clean Code
 - ☑️ Cloud
 - ☑️ Docker
-- ☑️ TDD e testes unitários
+- ☑️ Testes unitários
 
 ### Eu sei trabalhar com isso tudo aqui:
 
