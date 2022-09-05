@@ -8,6 +8,7 @@ Construíndo meu futuro como desenvolvedor web fullstack, estudando programaçã
 - ☑️ Cloud
 - ☑️ Docker
 - ☑️ Testes unitários
+- ☑️ DDD
 
 ### Eu sei trabalhar com isso tudo aqui:
 
