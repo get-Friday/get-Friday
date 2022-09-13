@@ -4,6 +4,8 @@ Construíndo meu futuro como desenvolvedor web fullstack, estudando programaçã
 
 ## 🌱 Plano de estudos:
 - ✅ ASP.NET
+- ✅ React Native
+- ✅ Node.js
 - ☑️ Clean Code
 - ☑️ Cloud
 - ☑️ Docker
