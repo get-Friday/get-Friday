@@ -3,14 +3,14 @@
 Construíndo meu futuro como desenvolvedor web fullstack, estudando programação há 3 anos apaixonado pelo front-end e desafiado pelo back-end estou indo pra cima com tudo! No meu perfil você vai encontrar todos os meus projetos de estudo, minha jornada vem do React para o Angular, do Javascript para o Typescript e agora o C#. Quando comecei a estudar programação eu fui alfabetizado em Delphi em uma escola pública do interior, hoje eu faço bootcamps, cursos profissionalizantes como da JA Brasil e DEVinHouse, e estudo por conta própria com desafios de projetos.
 
 ## 🌱 Plano de estudos:
-- ✅ ASP.NET
-- ✅ React Native
-- ✅ Node.js
-- ☑️ Clean Code
-- ☑️ Cloud
-- ☑️ Docker
-- ☑️ Testes unitários
-- ☑️ DDD
+- [x] ASP.NET
+- [x] React Native
+- [x] Node.js
+- [ ] Clean Code
+- [ ] Cloud
+- [ ] Docker
+- [ ] Testes unitários
+- [ ] DDD
 
 ### Eu sei trabalhar com isso tudo aqui:
 
