@@ -5,7 +5,7 @@ Construíndo meu futuro como desenvolvedor web fullstack, estudando programaçã
 ## 🌱 Plano de estudos:
 - [x] Cloud
 - [x] Docker
-- [ ] Testes unitários
+- [x] Testes unitários
 
 ### Eu sei trabalhar com isso tudo aqui:
 
